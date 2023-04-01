@@ -77,7 +77,7 @@ header a:hover {
   outline: none;
 }
   
-.search__input .material-icons {
+.search__input .material-symbols-outlined {
   color: gray;
 }
 .search__input:hover{
